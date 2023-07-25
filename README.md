@@ -1,5 +1,5 @@
 # SQLStreamable-ImgurEdits
-A modification of Kynarac's code to pull videos from computer and upload to imgur
+A modification of Kyraryc's code to pull videos from computer and upload to imgur
 
 **To get files from a specific folder**
 
