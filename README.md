@@ -2,6 +2,8 @@
 A modification of Kyraryc's code to pull videos from computer and upload to imgur. General setup is the same as the original version
 https://github.com/Kyraryc/ToReddit
 
+You can either download all files, or download the zip file and unzip it where you want the program. Either should work.
+
 **To get files from a specific folder**
 
 * set the boolean on line 722 to true.
