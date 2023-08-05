@@ -1,5 +1,6 @@
 # SQLStreamable-ImgurEdits
-A modification of Kyraryc's code to pull videos from computer and upload to imgur
+A modification of Kyraryc's code to pull videos from computer and upload to imgur. General setup is the same as the original version
+https://github.com/Kyraryc/ToReddit
 
 **To get files from a specific folder**
 
