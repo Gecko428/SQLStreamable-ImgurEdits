@@ -2,7 +2,7 @@
 A modification of Kyraryc's code to pull videos from computer and upload to imgur. General setup is the same as the original version
 https://github.com/Kyraryc/ToReddit
 
-You can either download all files, or download the zip file and unzip it where you want the program. Either should work.
+Download the zip file and unzip it where you want the program. Either should work.
 
 **To get files from a specific folder**
 
@@ -16,7 +16,7 @@ You can either download all files, or download the zip file and unzip it where y
 
 * set upload imgur at line 724 to true
 
-* Add your imgur account email and password to lines 719 and 720
+* When the imgur login page comes up, input your login credentials and do any captcha's manually
 
 * Wait for the actual upload window to appear. Actual uploads, verifying you want sound, and "Are you human" checks are done by hand
 
