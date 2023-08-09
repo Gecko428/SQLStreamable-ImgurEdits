@@ -1,6 +1,6 @@
 # SQLStreamable-ImgurEdits
 A modification of Kyraryc's code to pull videos from computer and upload to imgur. General setup is the same as the original version
-https://github.com/Kyraryc/ToReddit
+https://github.com/Kyraryc/ToReddit, baring the filepaths now being lines 712, 713, and 714, and reddit username and password now bieng lines 716 and 717.
 
 Download the zip file and unzip it where you want the program. Either should work.
 
@@ -20,4 +20,4 @@ Download the zip file and unzip it where you want the program. Either should wor
 
 * Wait for the actual upload window to appear. Actual uploads, verifying you want sound, and "Are you human" checks are done by hand
 
-* If you hit "CREATE_ALBUM_FAIL", wait about an hour and then press any key on the command line to continue the program.
+* If you hit "CREATE_ALBUM_FAIL", wait about an hour and then press any key on the command line to continue the program, or just stop it and restart it later.
